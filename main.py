@@ -1,4 +1,4 @@
-# from aiogram import Bot,Dispatcher
+from aiogram import Bot,Dispatcher
 from aiogram import F
 from asyncio import run
 from aiogram.filters import Command
